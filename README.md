@@ -14,7 +14,6 @@ I've been learning web development for 2 years, before I realized my interest wa
 
 *   🧠  I'm learning networking and penetration testing
 
-*   🤝  I'm open to collaborating on bounty hunting
 
 *   ⚡  I'm secretly a Manchester United fun, but don't tell anyone 😋
 
